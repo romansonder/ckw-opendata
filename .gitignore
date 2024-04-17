@@ -1,2 +1,4 @@
 # Ignore pickles
 *.pkl
+# Virtual environment
+.venv
